@@ -4,6 +4,7 @@
 ### 🥽 WebXR Portfolio: [benlive.tv/webxr](https://benlive.tv/webxr "WebXR Portfolio of Ben McNulty")
 ### 🏢 Résumé: [benlive.tv/about](https://benlive.tv/about "Ben McNulty's Résumé")
 ### 🐘 Mastodon: [@BenMcN@widerweb.org](https://widerweb.org/@BenMcN "@BenMcN@widerweb.org")
+### 🧵 Threads: [@benlivenow](https://threads.net/@benlivenow "@benlivenow")
 
 <!--
 **benmcnulty/benmcnulty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
