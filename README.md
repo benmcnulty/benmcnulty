@@ -1,5 +1,3 @@
-### 👋 Hi there 
-### 😄 Pronouns: they || he
 ### ✨ AI Prompt Engineering: [promptfolio.dev](https://promptfolio.dev "Promptfolio by Ben McNulty")
 ### 💼 Portfolio: [benlive.tv](https://benlive.tv "Portfolio of Ben McNulty")
 ### 🥽 WebXR Portfolio: [benlive.tv/webxr](https://benlive.tv/webxr "WebXR Portfolio of Ben McNulty")
