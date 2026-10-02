@@ -19,7 +19,7 @@ The [prehog repository](https://github.com/benmcnulty/prehog) preserves the orig
 
 ## Portfolio and background
 
-- [Ben Live](https://benlive.tv/) — personal site and software development lab
+- [Ben Live](https://benlive.tv/) — show and software experiments
 - [Experience](https://benlive.tv/about/) — professional background
 - [Promptfolio](https://www.promptfolio.dev/) — live catalog and project writing
 - [LinkedIn](https://www.linkedin.com/in/benmcnulty/) — professional profile
